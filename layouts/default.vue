@@ -1,6 +1,8 @@
 <template>
   <div>
-	<h1>Welcome to HPC</h1>
+  <Header />
+  <Nuxt />
+  <Footer />
   </div>
 </template>
 
