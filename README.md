@@ -2,15 +2,16 @@
 
 Purpose: test out possibility of transitioning an existing WordPress site to Nuxt + Netlify CMS, using GitHub pages + GitHub actions
 
-Current state:
+Current accomplishments:
 
 - generated basic shell
+- connect to Github actions / pages
+- set up markdown collection for "sermons" and iterate in page
 
 Next steps:
 
-- connect to Github actions / pages
-- set up markdown collection for "sermons" and iterate in page
 - demonstrate use of Netlify to edit
+- begin styling
 
 Technical notes below are generated from nuxt.
 
