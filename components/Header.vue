@@ -7,12 +7,12 @@
 
 		<b-collapse id="nav-collapse" is-nav>
 			<b-navbar-nav>
-				<b-nav-item href="about">About</b-nav-item> 
-				<b-nav-item href="services">Services</b-nav-item>
-				<b-nav-item href="worship">Music</b-nav-item>
-				<b-nav-item href="learn">Learn</b-nav-item>
-				<b-nav-item href="serve">Serve</b-nav-item>
-				<b-nav-item href="contact">Contact</b-nav-item>
+				<b-nav-item href="/about">About</b-nav-item> 
+				<b-nav-item href="/services">Services</b-nav-item>
+				<b-nav-item href="/worship">Music</b-nav-item>
+				<b-nav-item href="/learn">Learn</b-nav-item>
+				<b-nav-item href="/serve">Serve</b-nav-item>
+				<b-nav-item href="/contact">Contact</b-nav-item>
 			</b-navbar-nav>
 		</b-collapse>
 		
