@@ -7,11 +7,14 @@ Current accomplishments:
 - generated basic shell
 - connect to Github actions / pages
 - set up markdown collection for "sermons" and iterate in page
+- demonstrate use of Netlify to edit
 
 Next steps:
 
-- demonstrate use of Netlify to edit
 - begin styling
+  - header and footer (partial)
+  - submenus: see https://www.limosync.com/posts/creating-navbar-and-footer-in-nuxtjs-with-tailwindcss
+
 
 Technical notes below are generated from nuxt.
 

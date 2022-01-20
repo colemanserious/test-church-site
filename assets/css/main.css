@@ -1,0 +1,15 @@
+#hpc-header .bg-info {
+	background-color: darkblue !important;
+} 
+
+#hpc-footer {
+	background-color: darkblue;
+	color: white;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	width: 100%;
+}
+
+
+
