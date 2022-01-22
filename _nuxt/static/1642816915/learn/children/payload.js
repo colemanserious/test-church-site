@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/learn/children", {data:[{}],fetch:{},mutations:void 0});
