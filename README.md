@@ -13,8 +13,8 @@ Next steps:
 
 - begin styling
   - header and footer (partial)
-  - submenus: see https://www.limosync.com/posts/creating-navbar-and-footer-in-nuxtjs-with-tailwindcss
-
+  - submenus
+  - front page
 
 Technical notes below are generated from nuxt.
 
